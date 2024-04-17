@@ -14,4 +14,5 @@ Data Structures &amp; Algorithms LeetCode
    2. Two sum 2 - input is sorted
 3. Trees
    1. Sum of root to leaf numbers
-   
+   2. Add one row to tree
+   3. Smallest string starting from leaf
